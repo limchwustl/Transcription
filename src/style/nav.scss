@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Fredoka;
+    src: url(../assets/fonts/FredokaOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: Acre;
+    src: url(../assets/fonts/Jonathan\ Ball\ -\ Acre-Medium.otf);
+}
+
+
+.nav-container{
+   
+    background: #5F879D;
+
+    width:100%;
+    position: absolute;
+    top:0;left:0;
+   
+    
+}
+
+.title{
+    color: #fffffe;
+    font-size: 24px;
+    font-family: 'Fredoka';
+}

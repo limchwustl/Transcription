@@ -1,0 +1,29 @@
+
+.transcription-container{
+    padding-top: 2rem;
+    height:24rem;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    overflow-y: auto;
+}
+
+#popover {
+    margin: 0;
+    width: 180px; 
+    height: 40px; 
+    background: #fffffe;
+    font-size: 8px;
+    text-align: center;
+    position: absolute;
+ 
+    -moz-border-radius: 10px; 
+    -webkit-border-radius: 10px; 
+    border-radius: 10px;
+    border-color: #5F879D;
+    border-style: solid;
+    color: #5F879D;
+ }
+
+.active{
+    background-color: yellow;
+}
